@@ -44,10 +44,10 @@
 
 <h3 align="center">📈 Statistiques GitHub</h3>
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=InToXy" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MatheoPinget-dev" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InToXy&show_icons=true&locale=fr&layout=compact" alt="Langages favoris" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheoPinget-dev&show_icons=true&locale=fr&layout=compact" alt="Langages favoris" />
 </div>
 
 <hr/>
